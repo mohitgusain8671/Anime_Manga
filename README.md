@@ -69,7 +69,7 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  ![JavaScript](https://img.shields.io/badge/JavaScript-61.7%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-30.4%25-1572B6?style=for-the-badge&logo=css&logoColor=white) ![Dockerfile](https://img.shields.io/badge/Dockerfile-4.6%25-gray?style=for-the-badge&logo=dockerfile&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-3.3%25-E34F26?style=for-the-badge&logo=html&logoColor=white)
+  <img src="https://img.shields.io/badge/JavaScript-61.7%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JS Stats" /> <img src="https://img.shields.io/badge/CSS-30.4%25-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS"/> <img src="https://img.shields.io/badge/Dockerfile-4.6%25-gray?style=for-the-badge&logo=dockerfile&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/HTML-3.3%25-E34F26?style=for-the-badge&logo=html&logoColor=white" alt="HTML" />
 </div>
 
 
